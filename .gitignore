@@ -1,0 +1,14 @@
+# 環境変数ファイル
+.env
+
+# Composer関係
+/vendor/
+/composer.lock
+
+# OS/エディタ関連
+.DS_Store
+Thumbs.db
+
+# キャッシュやログ
+*.log
+/cache/
